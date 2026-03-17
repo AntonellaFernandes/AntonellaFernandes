@@ -21,7 +21,7 @@ Seja bem-vindo(a) ao meu perfil! Sou uma entusiasta da tecnologia dando os prime
 ---
 
 ### ✍️ Além do Código
-- **Escrita e Raciocínio:** Sou apaixonada por desenvolver meu pensamento através da escrita e da leitura de livros diversos. Acredito que escrever bem é fundamental para organizar a lógica e comunicar ideias com clareza.
+- **Escrita e Raciocínio:** Adoro desenvolver meu pensamento através da escrita e da leitura de livros diversos. Acredito que escrever bem é fundamental para organizar a lógica e comunicar ideias com clareza.
 - **Geopolítica e Sociedade:** Gosto de me atualizar sobre o mundo, acompanhando notícias, debates políticos e pautas sociais.
 - **Conexão Humana + Tech:** Meu objetivo no curso é integrar meus conhecimentos da área de humanas com a parte tecnológica, criando ferramentas que façam sentido para as pessoas e para o contexto global em que vivemos.
 
